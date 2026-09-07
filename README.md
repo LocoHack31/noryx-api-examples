@@ -38,3 +38,27 @@ examples/
 ├── javascript/
 ├── curl/
 └── responses/
+
+# Noryx API Examples
+
+Intro
+
+## Scope
+
+## Important
+
+## Example Structure
+
+## Security
+Never commit real credentials.
+Use environment variables or placeholder values...
+
+## Documentation
+Official documentation:
+https://github.com/noryxfinance/noryx-docs
+
+Website:
+https://noryxfinance.com
+
+## Disclaimer
+Noryx Finance provides software...
